@@ -30,6 +30,10 @@ The Smart Woman Safety System is a Python-based application developed using Obje
 - OOP
 - Abstract Base Classes
 
+## Screenshot 
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/cfd62c01-49d4-4860-9fb7-80275dc8b9dd" />
+
 ## Project Structure
 
 ```
